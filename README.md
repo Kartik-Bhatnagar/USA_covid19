@@ -8,7 +8,7 @@ Visualization  of Covid 19 cases spread and deaths across USA (District Wise and
 Vaccination rate is shown (State Wise)
 
 Vizualization of 3 features in Single Chloropleth is Being Shown. ( 1. R-value, 2. Vaccination Rate , 3. Current Daily Cases)
-[see it in screen_shot1]
+[https://github.com/Kartik-Bhatnagar/USA_covid19/blob/main/Screenshot%20from%202021-11-09%2017-30-43.png]
 
 Vizualization of 4 features in Single Chloropleth is also Being Shown. ( 1. R-value, 2. Vaccination Rate , 3. Current Daily Cases, 4 Current Daily Death Cases )
 [see it in screen_shot2]
