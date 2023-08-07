@@ -3,7 +3,7 @@ This python Notebook shows the analysis of Covid 19 cases in United Stes Of Amer
 
 The Analysis is centerd around Chloropleth Maps.
 
-Visualization  of Covid 19 cases spread and deaths across USA (District Wise and State Wise is shown)
+Visualization  of Covid 19 cases spread and deaths across USA (District Wise and State Wise is shown) 
 
 Vaccination rate is shown (State Wise)
 
